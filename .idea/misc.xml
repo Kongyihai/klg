@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="JSX" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="svn://202.107.200.162:8002/repo/kuyun/branches" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="svn://202.107.200.162:8002/repo/kuyun/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="E:/KLG">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="svn://115.29.198.39/kuyun/klg" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>
